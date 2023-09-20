@@ -1,5 +1,3 @@
-import javax.print.DocFlavor.STRING
-
 abstract class Person() {
     abstract val ID: Int
     abstract val Name: String
